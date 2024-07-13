@@ -5,10 +5,11 @@
     </a>
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next_JS?style=for-the-badge&logoColor=white&logo=nextjs&color=646CFF" alt="vite" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
+<div>
+  <img src="https://img.shields.io/badge/-Next_JS?style=for-the-badge&logo=next.js&logoColor=white&color=646CFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="Tailwind CSS" />
+</div>
+
 
   <h3 align="center">Modern UI/UX website</h3>
  
@@ -23,26 +24,20 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
-
+AnimeVault - A Next.js and Tailwind CSS-powered anime website featuring a sleek, modern UI/UX design. With its stylish interface, smooth animations, and immersive user experience, AnimeVault sets a new standard for modern web applications and offers inspiration for future projects.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Vite
-- React.js
+- Next.js
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
+ 
+👉 **Smooth Animations**: Engaging effects triggered by mouse movement and scrolling
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like card.
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
-
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
-
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
-
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+👉 **Latest UI Trends**: Incorporates modern design elements.
 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
@@ -63,8 +58,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/brainwave.git
-cd brainwave
+git clone https://github.com/Abdullah0Dev/animevault.git
+cd animevault
 ```
 
 **Installation**
@@ -81,6 +76,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
  
 
