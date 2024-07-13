@@ -6,9 +6,10 @@
   <br />
 
 <div>
-  <img src="https://img.shields.io/badge/-Next_JS?style=for-the-badge&logo=next.js&logoColor=white&color=646CFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Next.js-646CFF?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </div>
+
 
 
   <h3 align="center">Modern UI/UX website</h3>
