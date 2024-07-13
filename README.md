@@ -33,16 +33,18 @@ AnimeVault - A Next.js and Tailwind CSS-powered anime website featuring a sleek,
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
- 
-👉 **Smooth Animations**: Engaging effects triggered by mouse movement and scrolling
 
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like card.
+👉 Smooth Animations: Engaging effects triggered by mouse movements and scrolling.
 
-👉 **Latest UI Trends**: Incorporates modern design elements.
+👉 Complex UI Geometry: Utilizes Tailwind CSS for intricate shapes like cards.
 
-👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+👉 Latest UI Trends: Incorporates modern design elements and aesthetics.
 
-and many more, including code architecture and reusability
+👉 Responsive Design: Ensures seamless functionality and visuals across all devices.
+
+👉 Code Architecture & Reusability: Emphasizes well-structured code and reusable components.
+
+And many more!
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
